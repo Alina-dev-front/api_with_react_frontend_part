@@ -32,7 +32,7 @@ class Home extends Component {
     return <Container style={{ paddingTop: "100px" }}>
       <Row>
         <Col>
-          <h3>My First React + ASP.NET CRUD React</h3>
+          <h3>Mrs_Cake's clients</h3>
         </Col>
       </Row>
       <Row>
